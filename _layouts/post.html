@@ -2,18 +2,18 @@
 layout: default
 ---
 
-<p class="article_date date">
-  {{page.date | date_to_string}}
-</p>
+<div id="container" class="posting">
+  <div id="header">
+    <p><a href="/" rel="me author">Filip Tepper</a></p>
+    <h1 id="title">{{ page.title }}</h1>
+    <p class="date">{{ page.date | date_to_long_string }}</p>
+  </div>
 
-<hr/>
+  <div id="content" class="entry">
+    <div id="body">
+      {{ content }}
+    </div>
+  </div>
 
-<div id="content">
-  {{ content }}
+  {% include footer.html %}
 </div>
-
-<hr/>
-
-<div id="disqus_thread"></div>
-<script type="text/javascript" src="http://disqus.com/forums/filiptepper-com/embed.js"></script>
-<noscript><a href="http://disqus.com/forums/filiptepper-com/?url=ref">View the discussion thread.</a></noscript>

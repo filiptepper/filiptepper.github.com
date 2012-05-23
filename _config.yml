@@ -1,2 +1,3 @@
 permalink: /:year/:month/:day/:title
 pygments: true
+exclude: .rvmrc, Gemfile, Gemfile.lock

@@ -1,69 +1,25 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=550, maximum-scale=1.0" />
-  <meta name="keywords" content="filip tepper, ruby on rails" />
-  <meta name="description" content="{{ page.excerpt }}" />
-  <title>
-    {% unless page.home %}{{ page.title }} - {% endunless %} Filip Tepper
-  </title>
-  <link rel="stylesheet" href="/css/reset.css" type="text/css" />
-  {{ page.head }}
-  <link rel="stylesheet" href="/css/screen.css" type="text/css" />
-  <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-  <link rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/css/iphone.css" type="text/css" />
-  <link rel="stylesheet" media="only screen and (max-device-width: 1024px)" href="/css/ipad.css" type="text/css" />
-  <link rel="alternate" type="application/atom+xml" href="http://feeds.feedburner.com/filipteppercom" />
-  <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-  <link href="/images/icon.jpg" rel="apple-touch-icon" />
-  <script src="/js/jquery.js" type="text/javascript"></script>
-</head>
-<body>
-  <div id="outer">
-    <div id="wrapper">
-      <div id="container">
-        <div id="header">
-          <h1>
-            {% if page.home %}
-              Filip Tepper
-            {% else %}
-              <a href="/">&larr; Filip Tepper</a>
-            {% endif %}
-          </h1>
-          <ul>
-            <li>
-              <a href="/archive">Archive</a>
-            </li>
-            <li>
-              <a href="http://killingcreativity.com/about">About</a>
-            </li>
-          </ul>
-          <hr class="right"/>
-        </div>
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-  try {
-  var pageTracker = _gat._getTracker("UA-275035-8");
-  pageTracker._trackPageview();
-  } catch(err) {}
-  </script>
-  <script type="text/javascript">
-      var disqus_shortname = 'filiptepper-com';
-      (function () {
-          var s = document.createElement('script'); s.async = true;
-          s.type = 'text/javascript';
-          s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-      }());
-  </script>
-</body>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content='text/html;charset=utf-8'>
+    <meta name="viewport" content="width=700">
+    <title>Filip Tepper</title>
+    <link rel="alternate" href="/atom.xml" type="application/atom+xml" title="Filip Tepper">
+    <link rel="stylesheet" href="/css/styles.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/small-device.css" type="text/css" media="only screen and (max-width: 480px)">
+  </head>
+  <body>
+    {{ content }}
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-275035-8']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+  </body>
 </html>

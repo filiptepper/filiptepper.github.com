@@ -2,31 +2,36 @@
 layout: default
 home: true
 ---
+<div id="container">
+  <div id="header" class="about">
+    <h1>Filip Tepper</h1>
+</div>
 
-{% for post in site.posts limit:10 %}
-  <div class="post">
-    <h3>
-    {% if post.elsewhere %}
-      <a href="{{ post.elsewhere.url }}">{{ post.title }}</a>
-      {% else %}
-        <a href="{{ post.url }}/">{{ post.title }}</a>
-      {% endif %}
-    </h3>
-    <p class="date">{{ post.date | date_to_string }}
-      {% if post.author %}
-        by <a href="http://twitter.com/{{ post.author.twitter }}" title="{{ post.author.full}}">@{{ post.author.twitter }}</a>
-      {% endif %}
-    </p>
+<div class="about">
+  <img src="http://www.gravatar.com/avatar/953d27ff0800b1be886aad4a4be8f03f?size=245"
+    alt="Filip Tepper" class="me" height="245" width="245">
+
+  <div class="overview">
     <p>
-      {{ post.excerpt }}
-      {% if post.elsewhere %}
-        <span class="small">Published as a guest article for <a href="{{ post.elsewhere.main_url }}">{{ post.elsewhere.name}}</a>.</span>
-      {% endif %}
+      <strong>i love code.</strong>
+    </p>
+    <p class="follow-me">
+      <a href="https://twitter.com/filiptepper" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @filiptepper</a>
+      <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      <a href="http://twitter.com/filiptepper" rel="me">me on Twitter</a>.
+    </p>
+    <p class="follow-me">
+      <a href="http://github.com/filiptepper">See my code on GitHub</a>.
     </p>
   </div>
-{% endfor %}
 
-<p id="footnote">
-  Didn't find what you were looking for? There's more in the <a href="/archive">archive</a>.
-  jekyll theme by <a href="http://jeffkreeftmeijer.com/">Jeff Kreeftmeijer</a>. thanks!
-</p>
+  <h2>Blog</h2>
+  <dl class="post-list condensed">
+  {% for post in site.posts %}
+    <dt class="published">{{ post.date | date_to_string }}</dt>
+    <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
+  {% endfor %}
+  </dl>
+
+  {% include footer.html %}
+</div>
