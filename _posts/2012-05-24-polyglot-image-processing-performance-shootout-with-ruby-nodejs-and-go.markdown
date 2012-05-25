@@ -357,6 +357,14 @@ All benchmarks are executed with `time` (U assumed that every time processing is
 		9.33s user 7.04s system 174% cpu 9.405 total
 		9.31s user 7.02s system 178% cpu 9.154 total
 
+#### Bash
+
+        8.57s user 5.68s system 178% cpu 7.979 total
+        8.56s user 5.69s system 179% cpu 7.937 total
+        8.56s user 5.70s system 178% cpu 8.010 total
+
+Thanks Ludovic Urbain!
+
 ### Summary
 
 Ruby? Node.js? Go? As long as you're dealing with HTTP it doesn't really matter in this case in terms of performance. Since this factor is negligible, you may want to take a closer look at memory usage - Go uses 1/10 of MRI's and 1/2 of Node.js' memory. That's rougly 5MB, 10MB and 50MB for Go, Node.js and Ruby respectively.
