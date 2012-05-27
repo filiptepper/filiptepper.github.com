@@ -7,6 +7,14 @@ layout: post
 
 It doesn't matter what you use for on-the-fly image processing over HTTP.
 
+### Update
+
+Just a little and final update to this post.
+
+One of the commenters on Reddit says this is an example of "bad benchmarking". In fact it is, like most benchmarks are. What I wanted to show is that given current state of available libraries for Ruby, Node.js and Go it doesn't actually matter which programming language you choose for this particular task. Unless you can use C and use native libraries you won't notice any significant differences.
+
+I'm not ignorant, just curious!
+
 ### Idea
 
 First I should put a giant YMMV on top of this post. Second I know that it's just benchmarks. And now for the real thing...
