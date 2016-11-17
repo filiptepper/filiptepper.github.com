@@ -1,3 +1,3 @@
-source :rubygems
+source "https://rubygems.org/"
 
-gem "jekyll"
+gem "jekyll", "~> 3.3.1"
