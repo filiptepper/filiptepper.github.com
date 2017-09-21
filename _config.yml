@@ -7,7 +7,7 @@ paginate: 2
 
 excerpt_separator: <!--more-->
 
-theme: 'jekyll-whiteglass'
+theme: jekyll-theme-cayman
 
 plugins:
   - 'jekyll-archives'
