@@ -1,7 +1,7 @@
 ---
 title: Real-time indexing and searching with Sphinx 1.10.1-dev
-excerpt: Couple of easy steps and the results are great.
 layout: post
+comments: true
 ---
 Real-time indexing and searching is one of the major goals of web development in 2010. As of version 1.10.1 [<code>Sphinx</code>](http://www.sphinxsearch.com/, "Sphinx") is added to the list of search engines that deliver the promise of real-time.
 

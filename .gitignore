@@ -1,2 +1,5 @@
-/_site
-/vendor/bundle
+/.bundle/
+/_site/
+/vendor/bundle/
+/.sass-cache/
+/.DS_Store

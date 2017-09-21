@@ -1,3 +1,13 @@
+GIT
+  remote: git://github.com/yous/whiteglass.git
+  revision: e6ede3834260b15f524b3fdc44805ce851152d8d
+  specs:
+    jekyll-whiteglass (1.3.0)
+      jekyll (~> 3.3)
+      jekyll-archives (~> 2.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -17,8 +27,13 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.15.0)
@@ -45,7 +60,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.5.2)
+  jekyll
+  jekyll-whiteglass!
 
 BUNDLED WITH
-   1.15.3
+   1.15.4

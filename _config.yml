@@ -1,6 +1,21 @@
-permalink: /:year/:month/:day/:title
+title: 'Filip Tepper'
+site.url: '127.0.0.1:4000'
+
+permalink: '/:year/:month/:day/:title/'
+paginate_path: '/posts/:num/'
+paginate: 2
+
+excerpt_separator: <!--more-->
+
+theme: 'jekyll-whiteglass'
+
+plugins:
+  - 'jekyll-archives'
+  - 'jekyll-paginate'
+  - 'jekyll-sitemap'
+
 exclude:
-  - .ruby-version
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+  - '.ruby-version'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'vendor'

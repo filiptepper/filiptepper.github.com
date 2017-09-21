@@ -1,7 +1,7 @@
 ---
 title: My Tools of the Trade
-excerpt: Geeky stuff.
 layout: post
+comments: true
 ---
 Inspired by <a href="http://afreshcup.com/2009/10/11/my-tools-of-the-trade-2009/">Mike Gunderloy</a> I thought I'd share my setup used for everyday development.
 
