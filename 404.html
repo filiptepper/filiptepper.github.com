@@ -2,20 +2,4 @@
 layout: default
 title: '404'
 ---
-<div id="container">
-  <h2>Ouch. The page you were looking for is gone.</h2>
-
-  <p>
-    Somehow the page you're looking for vanished. You can go to the
-    <a href="/">homepage</a> or check out the recent articles below to try to
-    find what you're looking for.
-  </p>
-
-  <dl class="post-list condensed">
-  {% for post in site.posts %}
-    <dt class="published">{{ post.date | date_to_string }}</dt>
-    <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
-  {% endfor %}
-  </dl>
-  {% include footer.html %}
-</div>
+Ouch. The page you were looking for is gone.
