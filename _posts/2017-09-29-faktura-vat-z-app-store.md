@@ -24,4 +24,10 @@ Voilà! Jest miejsce na podanie numeru NIP i adresu email. Fakturę można od ra
 
 ![Invoices]({{ site.url }}/images/2017-09-29/4.png)
 
-Znana i lubiana intuicyjność produktów Apple w całej okazałości.
+Po wysłaniu dokumentu do księgowości otrzymasz informację, że ta faktura nie pozwala na odliczenie podatku VAT. Równie dobrze można sobie te wszystkie kroki podarować.
+
+*climax*
+
+Chwytasz za telefon, dzwonisz na infolinię (800 702 322, choć teoretycznie dla biznesu numer to 800 702 328). Tam w dziale posprzedażowym prosisz o korektę faktury z zerowym podatkiem VAT.
+
+Dla części oprogramowania możliwe jest też złożenie zamówienia bezpośrednio na infolinii, wtedy jest możliwość otrzymania poprawnej faktury od ręki (na przykład dla Final Cut czy Logic Pro).
