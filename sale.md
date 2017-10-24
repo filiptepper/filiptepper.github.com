@@ -4,6 +4,11 @@ title: Sale
 permalink: /sale/
 ---
 
+
+Różne:
+
+* Raspberry Pi 3 Model B
+
 CD:
 
 * 1349 - Beyond The Apocalypse [promo]
@@ -188,10 +193,8 @@ CD:
 * Marilyn Manson - Antichrist Superstart
 * Marilyn Manson - Eat Me, Drink Me
 * Marilyn Manson - Holy Wood
-* Marilyn Manson - Mechanical Animals
 * Marilyn Manson - Portrait Of An American Family
 * Marilyn Manson - Smells Like Children [Nothing, 1995]
-* Marilyn Manson - The Golden Age Of Grotesque
 * Mayhem - Chimera [promo]
 * Mayhem - Mediolanum Capta Est
 * Megadeth - Rust In Peace
