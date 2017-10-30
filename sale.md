@@ -12,7 +12,6 @@ Różne:
 CD:
 
 * 1349 - Beyond The Apocalypse [promo]
-* 1349 - Demonoir [digi, 2CD]
 * 1349 - Hellfire [promo]
 * 1349 - Liberation [promo]
 * 1349 - Revelations Of The Black Flame
@@ -36,7 +35,6 @@ CD:
 * Armia - Der Prozess [digi, 2009]
 * Barcode - Showdown
 * Behemoth - Demigod [promo]
-* Behemoth - Evangelion
 * Behexen - Rituale Satanum
 * Belef - Infection Purification
 * Belphegor - Goatreich - Fleshcult [promo]
@@ -305,7 +303,6 @@ CD:
 * Squal - Adrenaline
 * Stormrider - First Battle Won
 * Swan Christy - Julian
-* Testament - Low
 * Thanathraon - Hell Is Here
 * The Deviant - Ravenous Deathmachine
 * The Good, The Bad And The Queen - The Good, The Bad And The Queen
