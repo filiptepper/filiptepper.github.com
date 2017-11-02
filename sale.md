@@ -4,6 +4,16 @@ title: Sale
 permalink: /sale/
 ---
 
+Autografy:
+
+* Behemoth - Evangelia Heretika [Nergal, Orion, Inferno]
+* Deicide - Amon: Fisting The Beast
+* Deicide - Legion
+* Deicide - Once Upon The Cross
+* Deicide - When Satan Lives [Benton, Asheim, Hoffman x2]
+* Marduk - World Funeral [promo, Legion]
+* Testament - The Gathering [Chuck Billy]
+
 CD:
 
 * 1349 - Revelations Of The Black Flame
@@ -17,8 +27,6 @@ CD:
 * Blur - Parklife [1994]
 * Blur - The Great Escape
 * Bruce Dickinson - Alive [3CD]
-* Carpathian Forest - Black Shining Leather [digi, Avantgarde]
-* Carpathian Forest - Strange Old Brew [Avantgarde]
 * Catheter - Preamble Oblivion
 * Coal Chamber - Coal Chamber
 * Cruentus - Event Horizon
@@ -37,14 +45,12 @@ CD:
 * Devilyn - The Past Against The Future
 * Devilyn - XI [Conquer Records, 2005]
 * Disiplin - Disiplin
-* Dissenter - Bloodlust & Blasphemy
 * Dream System - Hologram of a Dream
 * Dream Theater - Awake
 * Dream Theater - Images And Words
 * Dream Theater - Metropolis Pt. 2 - Scenes From A Memory
 * Dream Theater - Octavarium [Atlantic]
 * Dream Theater - Systematic Chaos
-* Entombed - Inferno [digi, MMP, 2007]
 * Funker Vogt - Navigator [SPV, 2005]
 * Godus - Hell Fuck Daemon Sound
 * Gorillaz - Gorillaz
@@ -64,7 +70,6 @@ CD:
 * Jennie Tebler - Silverwing
 * Katatonia - Night Is The New Day
 * Katatonia - The Great Cold Distance
-* Keep Of Kalessin - Armada [digi]
 * Koldbrann - Moribund [Twilight]
 * Koldbrann - Nekrotisk Invisition [Twilight]
 * Korn - Korn [Immortal, 1994]
@@ -121,6 +126,7 @@ CD:
 * Skinny Puppy - Mythmaker
 * Skullshifter - Here in Hell
 * Solar Dawn - Equinoctium
+* Strandhogg - Art of Satanic and Antichristian Blood
 * Strandhogg - In Eternal Fire
 * Strandhogg - Ritualistic Plague (Evangelical Death Apotheosis)
 * Terrorizer - World Downfall
@@ -142,15 +148,11 @@ PROMO:
 * Advent = The Dawn [promo]
 * Anal Stench - Stench Like Six Deamons [promo]
 * Angel Crew - One Life, One Sentence [promo]
-* Anorexia Nervosa - Redemption Process [promo]
 * Antigama - Discomfort [promo]
-* Arcturus - Sideshow Symphonies [promo]
 * Arkhon Infaustus - Perdition Insanabilis [promo]
 * Barcode - Showdown [promo]
-* Behemoth - Demigod [promo]
 * Behexen - Rituale Satanum [promo CDR]
 * Belef - Infection Purification [promo`]
-* Belphegor - Goatreich - Fleshcult [promo]
 * Bestial Raids - Order Of Doom [promo CDR]
 * Bestiar - Promo 2004 [promo CDR]
 * Beyond The Embrace- Insect Song [promo]
@@ -201,7 +203,6 @@ PROMO:
 * Interior - Promo Only [promo CDR]
 * John Tormentor - 2003 [promo CDR]
 * Land Of Anger - In Galaxy Of Evil [promo]
-* Legion - Unseen To Creation [promo]
 * MindGrinder - MindTech [promo]
 * Mistress - II: The Chronovisor [promo]
 * Mistress - In Disgust We Trust [promo]
@@ -264,14 +265,12 @@ PROMO:
 * Vidsyn - On Frostbitten Path Beneath [promo]
 * Watchmaker - Erased From The Memory Of Man [promo]
 * Watchmaker - Kill.Fucking.Everyone [promo]
-* Witchcraft - Firewood [promo]
 * Within Y - Extended Mental Dimensions [promo]
 * Zuul Fx - By The Cross [promo]
 
 DVD:
 
 * Behemoth - Crush Fukk Create
-* Behemoth - Evangelia Heretika [z autografami]
 * Blood Duster - The Shape Of Death To Come
 * Carpathian Forest - We're Going To Hollywood For This - Live Perversions
 * Dave Gahan - Live Monsters
