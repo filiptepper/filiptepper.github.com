@@ -7,9 +7,10 @@ permalink: /sale/
 Autografy:
 
 * Behemoth - Evangelia Heretika [Nergal, Orion, Inferno]
-* Deicide - Amon: Fisting The Beast
-* Deicide - Legion
-* Deicide - Once Upon The Cross
+* Deicide - Amon: Fisting The Beast [Benton, Asheim, Hoffman x2]
+* Deicide - Legion [Benton, Asheim, Hoffman x2]
+* Deicide - Once Upon The Cross [Benton, Asheim, Hoffman x2]
+* Deicide - Serpents of The Light [Benton, Asheim, Hoffman x2]
 * Deicide - When Satan Lives [Benton, Asheim, Hoffman x2]
 * Marduk - World Funeral [promo, Legion]
 * Testament - The Gathering [Chuck Billy]
@@ -59,7 +60,6 @@ CD:
 * Head Control System - Murder Nature [Jester, 2006]
 * Hocico - Wrack And Ruin
 * Incubus - S.C.I.E.N.C.E.
-* Iperyt - Totalitarian Love Pulse
 * IR8 / Sexoturica - IR8 / Sexoturica
 * Jamiroquai - A Funk Odyssey
 * Jamiroquai - Dynamite
@@ -70,6 +70,7 @@ CD:
 * Jennie Tebler - Silverwing
 * Katatonia - Night Is The New Day
 * Katatonia - The Great Cold Distance
+* Keep of Kalessin - Kolossus
 * Koldbrann - Moribund [Twilight]
 * Koldbrann - Nekrotisk Invisition [Twilight]
 * Korn - Korn [Immortal, 1994]
@@ -89,7 +90,6 @@ CD:
 * Muchy - Terrorromans
 * Mutilation - Possessed by Reality
 * Negative Creeps - In Uterus Rebirth
-* Non Opus Dei - Sem Al Diavol Va Porti Al Mal
 * Nosowska - Milena
 * Nosowska - Sushi
 * Nosowska - UniSexBlues
@@ -103,6 +103,7 @@ CD:
 * Patologicum - Hecatomb Of Aberration
 * Pink Freud - Alchemia [digi]
 * Pink Freud - Monster Of Jazz [digi]
+* Pitchshifter - www.pitchshifter.com
 * Plerom's Gate - Pass The Gate Of Pleroma
 * Portishead - Dummy
 * Portishead - Portishead
@@ -266,6 +267,7 @@ PROMO:
 * Watchmaker - Erased From The Memory Of Man [promo]
 * Watchmaker - Kill.Fucking.Everyone [promo]
 * Within Y - Extended Mental Dimensions [promo]
+* Yattering - Live Extermination [promo]
 * Zuul Fx - By The Cross [promo]
 
 DVD:
