@@ -10,7 +10,6 @@ Autografy:
 * Deicide - Amon: Fisting The Beast [Benton, Asheim, Hoffman x2]
 * Deicide - Legion [Benton, Asheim, Hoffman x2]
 * Deicide - Once Upon The Cross [Benton, Asheim, Hoffman x2]
-* Deicide - Serpents of The Light [Benton, Asheim, Hoffman x2]
 * Deicide - When Satan Lives [Benton, Asheim, Hoffman x2]
 * Marduk - World Funeral [promo, Legion]
 * Testament - The Gathering [Chuck Billy]
@@ -136,7 +135,6 @@ CD:
 * U2 - All That You Can't Leave Behind
 * Undercroft - Danza Macabra
 * Wumpscut - Jesus Christus - Der Liebe
-* Yattering - Human's Pain
 
 PROMO:
 
@@ -144,18 +142,15 @@ PROMO:
 * 1349 - Hellfire [promo]
 * 1349 - Liberation [promo]
 * Abaddon Incarnate - Nadir [promo CDR]
-* Aborted - The Haematobic EP [promo]
 * Abysal - Primal Chaos [promo]
 * Advent = The Dawn [promo]
 * Anal Stench - Stench Like Six Deamons [promo]
 * Angel Crew - One Life, One Sentence [promo]
-* Antigama - Discomfort [promo]
 * Arkhon Infaustus - Perdition Insanabilis [promo]
 * Barcode - Showdown [promo]
 * Behexen - Rituale Satanum [promo CDR]
 * Belef - Infection Purification [promo`]
 * Bestial Raids - Order Of Doom [promo CDR]
-* Bestiar - Promo 2004 [promo CDR]
 * Beyond The Embrace- Insect Song [promo]
 * Biosystem 55 - Fifty Five [promo]
 * Black Witchery - Upheaval Of Satanic Might [promo]
@@ -182,7 +177,6 @@ PROMO:
 * Deception / Putridity - Holy Deception / Putrid Deception [promo CDR]
 * Deformed - Project Torture 004 [promo]
 * Delirium X Tremens - Cyberhuman [promo CDR]
-* Dies Irae - Sculpture of Stone [promo]
 * Donnybrook - Lions In This Game [promo]
 * Elysium - Deadline [promo]
 * Evergreen Terrace - Sincerity Is An Easy Disguise In This Business [rpomo]
@@ -249,15 +243,12 @@ PROMO:
 * The Deviant - Ravenous Deathmachine [promo]
 * The Hag - Depredations [promo CDR]
 * Thedead - Dieailydie [promo]
-* Third Degree - Outstay [promo]
 * Thirst - Per Aspera Ad Astra [promo CDR]
 * Thou Shalt Suffer - Into The Woods Of Belial [promo]
 * Thy Disease - Neurotic World Of Guilt [promo]
 * To Separate The Flesh From Bones - Utopia Sadistica [promo]
 * Topper - Once A Punk, Always A Punk [promo]
 * Total Devastation - Roadmap Of Pain [promo]
-* Totem - Intro [promo]
-* Trauma - Imperfect Like A God [promo CDR]
 * Twilight Of Christ - Hymn To Eternity [promo CDR]
 * Unsane - Blood Run [promo]
 * V/A - Black [promo CDR]
@@ -267,7 +258,6 @@ PROMO:
 * Watchmaker - Erased From The Memory Of Man [promo]
 * Watchmaker - Kill.Fucking.Everyone [promo]
 * Within Y - Extended Mental Dimensions [promo]
-* Yattering - Live Extermination [promo]
 * Zuul Fx - By The Cross [promo]
 
 DVD:
