@@ -110,6 +110,9 @@ CD:
 * Portishead - Third [2008, UK]
 * Prodigy - Always Outnumbered, Never Outgunned
 * Prodigy - Invaders Must Die
+* Puissance - State Collapse
+* Puissance - Total Cleansing [digi]
+* Puissance - War On [digi]
 * Rage Against The Machine - Evil Empire
 * Raise Hell - Holy Taget / Not Dead Yet
 * Red Hot Chili Peppers - Greatest Hist
@@ -185,6 +188,8 @@ PROMO:
 * Faeces - Vertex [promo CDR]
 * Final Dawn - Under The Bleeding Sky [promo]
 * Finnugor - Darkness Needs Us [promo]
+* God Among Insect - Zombienomicon [promo]
+* God Among Insects - World Wide Death [promo CDR]
 * Hatesphere - The Killing EP [promo]
 * Hearse - Armageddon Mon Amour [promo]
 * Hecatomb [promo CDR]
@@ -197,6 +202,7 @@ PROMO:
 * Inseminator / Necrolust - Dark Flames of Holy Inquisition [promo]
 * Interior - Promo Only [promo CDR]
 * John Tormentor - 2003 [promo CDR]
+* Kriegsmachine - Promo 2004 [promo CDR]
 * Land Of Anger - In Galaxy Of Evil [promo]
 * MindGrinder - MindTech [promo]
 * Mistress - II: The Chronovisor [promo]
@@ -227,6 +233,7 @@ PROMO:
 * Sargatanas Reign - Bloodwork Techniques Of Torture [promo]
 * Satariel - Hydra [promo]
 * Sauron - For A Dead Race [promo]
+* Severe Torture - Bloodletting [promo]
 * Sewn Shut - Rediscovering The Dead [promo]
 * Shackled Down - The Crew [promo]
 * Shining Of... - Convicted By Sin [promo CDR]
