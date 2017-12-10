@@ -21,7 +21,6 @@ CD:
 * Apteka - Urojonecałemiasta
 * Apteka - Zgwałcił Nie Mąż
 * Arafel - Through The Flame Of The Ages
-* Arch Enemy - Anthems Of Rebellion
 * Armia - Der Prozess [digi, 2009]
 * Bestiar - Lethal Venom
 * Blur - Parklife [1994]
@@ -31,11 +30,9 @@ CD:
 * Coal Chamber - Coal Chamber
 * Cruentus - Event Horizon
 * Darth - Buttfucked By Destiny
-* Dave Gaham - Kingdom
 * De/Vision - Noob
 * Deathstars - Termination Bliss
 * Depeche Mode - Martyr
-* Depeche Mode - Martyr v2
 * Depeche Mode - The Singles 81-85
 * Deranged - High On Blood
 * Devian - Ninewinged Serpent
@@ -43,10 +40,8 @@ CD:
 * Devilyn - Artefact [Blackend]
 * Devilyn - Reborn In Pain [MMP, 2004]
 * Devilyn - The Past Against The Future
-* Devilyn - XI [Conquer Records, 2005]
 * Disiplin - Disiplin
 * Dream System - Hologram of a Dream
-* Dream Theater - Awake
 * Dream Theater - Images And Words
 * Dream Theater - Metropolis Pt. 2 - Scenes From A Memory
 * Dream Theater - Octavarium [Atlantic]
@@ -54,8 +49,6 @@ CD:
 * Funker Vogt - Navigator [SPV, 2005]
 * Godus - Hell Fuck Daemon Sound
 * Gorillaz - Gorillaz
-* Hate - Awakening Of The Liar [Empire, 2003]
-* Hate - Victims [MMP, 1999]
 * Head Control System - Murder Nature [Jester, 2006]
 * Hocico - Wrack And Ruin
 * Incubus - S.C.I.E.N.C.E.
@@ -132,7 +125,6 @@ CD:
 * Strandhogg - Art of Satanic and Antichristian Blood
 * Strandhogg - In Eternal Fire
 * Strandhogg - Ritualistic Plague (Evangelical Death Apotheosis)
-* Terrorizer - World Downfall
 * The Good, The Bad And The Queen - The Good, The Bad And The Queen
 * Toxic Bonkers - Seeds of Cruelty
 * U2 - All That You Can't Leave Behind
@@ -157,7 +149,6 @@ PROMO:
 * Beyond The Embrace- Insect Song [promo]
 * Biosystem 55 - Fifty Five [promo]
 * Black Witchery - Upheaval Of Satanic Might [promo]
-* Blood Red Throne - Altered Genesis [promo]
 * Brain Story - Colours In My Head [promo]
 * Bunder Nekromunda / Vomigod - Landsberg vs Grunberg [promo CDR]
 * Byzantine - And They Shall Take Up Serpents [promo]
@@ -186,12 +177,9 @@ PROMO:
 * Faeces - Slaughterhousesabbath
 * Faeces - Umur Hybrid [promo CDR]
 * Faeces - Vertex [promo CDR]
-* Final Dawn - Under The Bleeding Sky [promo]
 * Finnugor - Darkness Needs Us [promo]
 * God Among Insect - Zombienomicon [promo]
 * God Among Insects - World Wide Death [promo CDR]
-* Hatesphere - The Killing EP [promo]
-* Hearse - Armageddon Mon Amour [promo]
 * Hecatomb [promo CDR]
 * Hellsaw - Sins of Might [promo CDR]
 * Herman Rarebell - Too Late For Peace... [promo]
@@ -231,9 +219,7 @@ PROMO:
 * Ruins - Spun Forth As Dark Nets [promo]
 * Runemagick - On Funeral Wings [promo CDR]
 * Sargatanas Reign - Bloodwork Techniques Of Torture [promo]
-* Satariel - Hydra [promo]
 * Sauron - For A Dead Race [promo]
-* Severe Torture - Bloodletting [promo]
 * Sewn Shut - Rediscovering The Dead [promo]
 * Shackled Down - The Crew [promo]
 * Shining Of... - Convicted By Sin [promo CDR]
@@ -273,7 +259,6 @@ DVD:
 * Blood Duster - The Shape Of Death To Come
 * Carpathian Forest - We're Going To Hollywood For This - Live Perversions
 * Dave Gahan - Live Monsters
-* Necrophagia - Nightmare Scenarios
 * Opeth - Lamentations
 * Satyricon - Roadkill Extravaganza
 * Wojtek Pilichowski - Bass Connection
