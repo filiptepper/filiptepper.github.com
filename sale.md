@@ -106,6 +106,11 @@ CD:
 * Puissance - State Collapse
 * Puissance - Total Cleansing [digi]
 * Puissance - War On [digi]
+* Rage - From The Cradle To The Grave
+* Rage - Ghosts
+* Rage - Lingua Mortis
+* Rage - Unity
+* Rage - XIII
 * Rage Against The Machine - Evil Empire
 * Raise Hell - Holy Taget / Not Dead Yet
 * Red Hot Chili Peppers - Greatest Hist
@@ -214,6 +219,7 @@ PROMO:
 * President Evil - Trash 'N' Roll Asshole Show [promo]
 * Profundis - Nokturn [promo CDR]
 * Psykup - We Love You All [promo]
+* Rage - Soundchaser [promo]
 * Rise Up - Unforeseeable World [promo CDR]
 * Rising Moon - Demo 2003 [promo CDR]
 * Ruins - Spun Forth As Dark Nets [promo]
