@@ -17,7 +17,6 @@ Autografy:
 CD:
 
 * 1349 - Revelations Of The Black Flame
-* Apteka - Narkotyki
 * Apteka - Urojonecałemiasta
 * Apteka - Zgwałcił Nie Mąż
 * Arafel - Through The Flame Of The Ages
@@ -30,7 +29,6 @@ CD:
 * Coal Chamber - Coal Chamber
 * Cruentus - Event Horizon
 * Darth - Buttfucked By Destiny
-* De/Vision - Noob
 * Deathstars - Termination Bliss
 * Depeche Mode - Martyr
 * Depeche Mode - The Singles 81-85
@@ -67,7 +65,6 @@ CD:
 * Koldbrann - Nekrotisk Invisition [Twilight]
 * Korn - Korn [Immortal, 1994]
 * Korn - Life Is Peachy [Immortal, 1996]
-* Lipnicka / Porter - Inside Story
 * Lost Soul - Scream of the Mourning Star
 * Lunaris - Cyclic [Earache]
 * Marilyn Manson - Antichrist Superstart
@@ -77,14 +74,11 @@ CD:
 * Marilyn Manson - Smells Like Children [Nothing, 1995]
 * Megadeth - Rust In Peace
 * Memembris - Cold Breath From Grave
-* Ministry - Psalm 69
 * MR.S - Extracerebral
 * Muchy - Terrorromans
 * Mutilation - Possessed by Reality
 * Negative Creeps - In Uterus Rebirth
 * Nosowska - Milena
-* Nosowska - Sushi
-* Nosowska - UniSexBlues
 * Old Man's Child - The Pagan Prosperity
 * OST - 8MM
 * OST - Bram Stoker's Dracula
@@ -93,12 +87,9 @@ CD:
 * OSTR - Ja Tu Tylko Sprzątam
 * OSTR - Tabasko
 * Patologicum - Hecatomb Of Aberration
-* Pink Freud - Alchemia [digi]
-* Pink Freud - Monster Of Jazz [digi]
 * Pitchshifter - www.pitchshifter.com
 * Plerom's Gate - Pass The Gate Of Pleroma
 * Portishead - Dummy
-* Portishead - Portishead
 * Portishead - Roseland NYC Live
 * Portishead - Third [2008, UK]
 * Prodigy - Always Outnumbered, Never Outgunned
