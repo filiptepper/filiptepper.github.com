@@ -16,7 +16,6 @@ Autografy:
 
 CD:
 
-* 1349 - Revelations Of The Black Flame
 * Apteka - Urojonecałemiasta
 * Apteka - Zgwałcił Nie Mąż
 * Arafel - Through The Flame Of The Ages
@@ -58,8 +57,6 @@ CD:
 * Jamiroquai - The Return Of the Space Cowboy
 * Jamiroquai - Travelling Without Moving
 * Jennie Tebler - Silverwing
-* Katatonia - Night Is The New Day
-* Katatonia - The Great Cold Distance
 * Keep of Kalessin - Kolossus
 * Koldbrann - Moribund [Twilight]
 * Koldbrann - Nekrotisk Invisition [Twilight]
