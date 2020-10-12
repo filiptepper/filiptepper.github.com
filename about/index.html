@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>About · Filip Tepper</title>
+
+
+
+<link rel="stylesheet" href="/css/rocinante.css" />
+
+
+<link rel="shortcut icon" href="/icons/favicon.png">
+
+
+<body>
+  <header><h2>
+  
+    <a href="https://tepper.pl/">‹ Filip Tepper</a>
+  
+</h2>
+</header>
+  <main>
+
+<div class="post">
+    <div class="title-group">
+        <div class="title">
+            <h1>About</h1>
+        </div>
+        <div class="date">
+            <h5></h5>
+        </div>
+    </div>
+    <article class="content">
+        
+<div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-hcl" data-lang="hcl"><span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_details&#34; &#34;filip_tepper&#34;</span> {
+<span style="color:#111">  name</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Filip Tepper&#34;</span>
+<span style="color:#111">  email</span>   <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;filip@tepper.pl&#34;</span>
+<span style="color:#111">  phone</span>   <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;+48668194320&#34;</span>
+<span style="color:#111">  website</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;https://filip.tepper.pl/&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;hopin_sre_engineer&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Hopin&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;SRE Engineer&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;September 2020&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#00a8c8">timestamp</span><span style="color:#111">()</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;remote&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;castle_infrastructure_team_lead&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Castle.io&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Infrastructure Team Lead&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;July 2019&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;August 2020&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;remote&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;castle_senior_engineer&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Castle.io&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Senior Engineer&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;April 2015&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;June 2019&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;remote&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;taptera_senior_engineer&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Taptera&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Senior Engineer&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;September 2012&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;March 2015&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Warsaw, Poland / remote&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;durszlak_cofounder&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Durszlak&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Cofounder&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;June 2011&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;February 2015&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Warsaw, Poland / remote&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;freeport_metrics_senior_consultant&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Freeport Metrics&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Senior Consultant&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;November 2010&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Augusta 2012&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Warsaw, Poland&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;gg_network_senior_engineer&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;GG Network&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Senior Engineer, Team Leader, Scrum Master&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;August 2009&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;October 2010&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Warsaw, Poland&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;more7_cto&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;more7 Polska&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;CTO&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;January 2007&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;December 2008&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Poznań, Poland&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_experience&#34; &#34;other&#34;</span> {
+<span style="color:#111">  company</span>  <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Companies &amp; Projects&#34;</span>
+<span style="color:#111">  title</span>    <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Software Engineer&#34;</span>
+<span style="color:#111">  from</span>     <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;when I turned 9&#34;</span>
+<span style="color:#111">  to</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;December 2006&#34;</span>
+<span style="color:#111">  location</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Poznań, Poland&#34;</span>
+}
+
+<span style="color:#00a8c8">resource</span> <span style="color:#d88200">&#34;person_education&#34; &#34;universy&#34;</span> {
+<span style="color:#111">  university</span> <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;The Poznań University of Economics&#34;</span>
+<span style="color:#111">  title</span>      <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;MSc Economics&#34;</span>
+<span style="color:#111">  from</span>       <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;2001&#34;</span>
+<span style="color:#111">  to</span>         <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;2006&#34;</span>
+<span style="color:#111">  location</span>   <span style="color:#f92672">=</span> <span style="color:#d88200">&#34;Poznań, Poland&#34;</span>
+}</code></pre></div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f3dc7b3f-e9f0-4559-85ff-11bb7d000a74" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+    </article>
+</div>
+
+  </main>
+  <footer><div class="content-container">
+  <div class="content">Hi, I'm Filip. 👋
+
+
+<p class="horizontal-links"><a href="/about"  >About</a><a href="mailto:filip@tepper.pl"  >filip@tepper.pl</a><a href="https://github.com/filiptepper"  target="_blank"  >GitHub</a><a href="https://twitter.com/filiptepper"  target="_blank"  >Twitter</a><a href="https://www.goodreads.com/user/show/4096051-filip-tepper"  target="_blank"  >Goodreads</a></p>
+
+<div class="disclaimer">
+      Theme based on <a href="https://github.com/mavidser/hugo-rocinante">Rocinante</a>. No cookies. No scripts.
+    </div>
+  </div>
+</div>
+</footer>
+</body>
+
+</html>
