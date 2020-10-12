@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filip Tepper</title>
-    <link>https://tepper.pl/</link>
+    <link>https://filip.tepper.pl/</link>
     <description>Recent content on Filip Tepper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://tepper.pl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://filip.tepper.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Y Combinator, W16</title>
-      <link>https://tepper.pl/2016/04/07/y-combinator-w16/</link>
+      <link>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tepper.pl/2016/04/07/y-combinator-w16/</guid>
+      <guid>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</guid>
       <description>Nieco ponad rok temu dołączyłem do Castle.io, z którym uczestniczyłem w zimowej edycji Y Combinator (YC) w 2016 roku. To, co widziałem, słyszałem i czego się nauczyłem znajdziecie poniżej.
 Czym jest YC? Akceleratorem startupów, programem, który, w dużym skrócie, przygotowuje uczestników do pozyskania finansowania w Silicon Valley (SV).
 Ważne zastrzeżenie — nie jestem współzałożycielem Castle.io. Jest to o tyle istotne, że nie miałem możliwości bezpośredniego uczestniczego w całym przedsięwzięciu. Ominęła mnie rozmowa kwalifikacyjna, nie chodziłem na cotygodniowe kolacje czy office hours.</description>
@@ -20,10 +20,10 @@ Ważne zastrzeżenie — nie jestem współzałożycielem Castle.io. Jest to o t
     
     <item>
       <title>Tales of Technical Cofounder</title>
-      <link>https://tepper.pl/2015/07/15/tales-of-technical-cofounder/</link>
+      <link>https://filip.tepper.pl/2015/07/15/tales-of-technical-cofounder/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://tepper.pl/2015/07/15/tales-of-technical-cofounder/</guid>
+      <guid>https://filip.tepper.pl/2015/07/15/tales-of-technical-cofounder/</guid>
       <description>Many of us dream of building something big. Something we would deeply care about. Something that would help us prove our craft to ourselves and others. Something that would reach 1000-stars mark on Github or at least end with a huge IPO.
 Here’s my take.
 I’ve done my fair share of starting and running a company. I remember the enthusiasm of the very early stages and the burnout after many sleepless nights of tireless bootstrapping.</description>
@@ -31,10 +31,10 @@ I’ve done my fair share of starting and running a company. I remember the enth
     
     <item>
       <title>About</title>
-      <link>https://tepper.pl/about/</link>
+      <link>https://filip.tepper.pl/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tepper.pl/about/</guid>
+      <guid>https://filip.tepper.pl/about/</guid>
       <description>resource &amp;#34;person_details&amp;#34; &amp;#34;filip_tepper&amp;#34; { name = &amp;#34;Filip Tepper&amp;#34; email = &amp;#34;filip@tepper.pl&amp;#34; phone = &amp;#34;+48668194320&amp;#34; website = &amp;#34;https://filip.tepper.pl/&amp;#34; } resource &amp;#34;person_experience&amp;#34; &amp;#34;hopin_sre_engineer&amp;#34; { company = &amp;#34;Hopin&amp;#34; title = &amp;#34;SRE Engineer&amp;#34; from = &amp;#34;September 2020&amp;#34; to = timestamp() location = &amp;#34;remote&amp;#34; } resource &amp;#34;person_experience&amp;#34; &amp;#34;castle_infrastructure_team_lead&amp;#34; { company = &amp;#34;Castle.io&amp;#34; title = &amp;#34;Infrastructure Team Lead&amp;#34; from = &amp;#34;July 2019&amp;#34; to = &amp;#34;August 2020&amp;#34; location = &amp;#34;remote&amp;#34; } resource &amp;#34;person_experience&amp;#34; &amp;#34;castle_senior_engineer&amp;#34; { company = &amp;#34;Castle.</description>
     </item>
     
