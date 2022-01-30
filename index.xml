@@ -19,23 +19,25 @@ Ważne zastrzeżenie — nie jestem współzałożycielem Castle.io. Jest to o t
     </item>
     
     <item>
-      <title>Tales of Technical Cofounder</title>
-      <link>https://filip.tepper.pl/2015/07/15/tales-of-technical-cofounder/</link>
+      <title>Tales of Technical Co-founder</title>
+      <link>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://filip.tepper.pl/2015/07/15/tales-of-technical-cofounder/</guid>
-      <description>Many of us dream of building something big. Something we would deeply care about. Something that would help us prove our craft to ourselves and others. Something that would reach 1000-stars mark on Github or at least end with a huge IPO.
+      <guid>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</guid>
+      <description>Many of us dream of building something big. Something we would deeply care about. Something that would help us prove our craft to ourselves and others. Something that would reach the 1000-stars mark on Github or at least end with a huge IPO.
 Here’s my take.
 I’ve done my fair share of starting and running a company. I remember the enthusiasm of the very early stages and the burnout after many sleepless nights of tireless bootstrapping.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://filip.tepper.pl/about/</link>
+      <title>README</title>
+      <link>https://filip.tepper.pl/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://filip.tepper.pl/about/</guid>
-      <description>resource &amp;#34;person_details&amp;#34; &amp;#34;filip_tepper&amp;#34; { name = &amp;#34;Filip Tepper&amp;#34; email = &amp;#34;filip@tepper.pl&amp;#34; phone = &amp;#34;+48668194320&amp;#34; website = &amp;#34;https://filip.tepper.pl/&amp;#34; } resource &amp;#34;person_experience&amp;#34; &amp;#34;hopin_sre_engineer&amp;#34; { company = &amp;#34;Hopin&amp;#34; title = &amp;#34;SRE Engineer&amp;#34; from = &amp;#34;September 2020&amp;#34; to = timestamp() location = &amp;#34;remote&amp;#34; } resource &amp;#34;person_experience&amp;#34; &amp;#34;castle_infrastructure_team_lead&amp;#34; { company = &amp;#34;Castle.io&amp;#34; title = &amp;#34;Infrastructure Team Lead&amp;#34; from = &amp;#34;July 2019&amp;#34; to = &amp;#34;August 2020&amp;#34; location = &amp;#34;remote&amp;#34; } resource &amp;#34;person_experience&amp;#34; &amp;#34;castle_senior_engineer&amp;#34; { company = &amp;#34;Castle.</description>
+      <guid>https://filip.tepper.pl/readme/</guid>
+      <description>Hi, I&amp;rsquo;m Filip, and this is my README.
+I&amp;rsquo;m very excited to be working with you!
+You &amp;amp; I Every week we will have a 1:1. During this time I don&amp;rsquo;t expect project updates, this time is all about you. I will be giving you feedback, asking you for feedback, learning more about your goals, and most importantly - hearing how I can help you become the best you at $COMPANY.</description>
     </item>
     
   </channel>

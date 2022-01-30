@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://filip.tepper.pl/</loc>
     <lastmod>2016-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://filip.tepper.pl/posts/</loc>
     <lastmod>2016-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</loc>
     <lastmod>2016-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filip.tepper.pl/2015/07/15/tales-of-technical-cofounder/</loc>
+  </url><url>
+    <loc>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</loc>
     <lastmod>2015-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filip.tepper.pl/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://filip.tepper.pl/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://filip.tepper.pl/readme/</loc>
+  </url><url>
     <loc>https://filip.tepper.pl/tags/</loc>
   </url>
-  
 </urlset>
