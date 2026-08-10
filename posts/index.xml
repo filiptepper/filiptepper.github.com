@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Filip Tepper</title>
-    <link>https://filip.tepper.pl/posts/</link>
-    <description>Recent content in Posts on Filip Tepper</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://filip.tepper.pl/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Y Combinator, W16</title>
-      <link>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</link>
-      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</guid>
-      <description>Nieco ponad rok temu dołączyłem do Castle.io, z którym uczestniczyłem w zimowej edycji Y Combinator (YC) w 2016 roku. To, co widziałem, słyszałem i czego się nauczyłem znajdziecie poniżej.
-Czym jest YC? Akceleratorem startupów, programem, który, w dużym skrócie, przygotowuje uczestników do pozyskania finansowania w Silicon Valley (SV).
-Ważne zastrzeżenie — nie jestem współzałożycielem Castle.io. Jest to o tyle istotne, że nie miałem możliwości bezpośredniego uczestniczego w całym przedsięwzięciu. Ominęła mnie rozmowa kwalifikacyjna, nie chodziłem na cotygodniowe kolacje czy office hours.</description>
-    </item>
-    
-    <item>
-      <title>Tales of Technical Co-founder</title>
-      <link>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</link>
-      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</guid>
-      <description>Many of us dream of building something big. Something we would deeply care about. Something that would help us prove our craft to ourselves and others. Something that would reach the 1000-stars mark on Github or at least end with a huge IPO.
-Here’s my take.
-I’ve done my fair share of starting and running a company. I remember the enthusiasm of the very early stages and the burnout after many sleepless nights of tireless bootstrapping.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Filip Tepper</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Filip Tepper</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Y Combinator, W16</title>
+				<link>http://localhost:1313/2016/04/07/y-combinator-w16/</link>
+				<pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/2016/04/07/y-combinator-w16/</guid>
+				<description>&lt;p&gt;Nieco ponad rok temu dołączyłem do &lt;a href=&#34;https://castle.io/&#34; target=&#34;_blank&#34;&gt;Castle.io&lt;/a&gt;, z którym&#xA;uczestniczyłem w zimowej edycji &lt;a href=&#34;https://www.ycombinator.com/&#34; target=&#34;_blank&#34;&gt;Y Combinator&lt;/a&gt;&#xA;(YC) w 2016 roku. To, co widziałem, słyszałem i czego się nauczyłem znajdziecie&#xA;poniżej.&lt;/p&gt;&#xA;&lt;p&gt;Czym jest YC? Akceleratorem startupów, programem, który, w dużym skrócie,&#xA;przygotowuje uczestników do pozyskania finansowania w Silicon Valley (SV).&lt;/p&gt;&#xA;&lt;p&gt;Ważne zastrzeżenie — nie jestem współzałożycielem Castle.io. Jest to o tyle&#xA;istotne, że nie miałem możliwości bezpośredniego uczestniczego w całym&#xA;przedsięwzięciu. Ominęła mnie rozmowa kwalifikacyjna, nie chodziłem na&#xA;cotygodniowe kolacje czy &lt;em&gt;office hours&lt;/em&gt;. Mogłem jedynie uczestniczyć w&#xA;imprezach, na które założyciele mieli możliwość zaproszenia swojego &lt;em&gt;+1&lt;/em&gt;, więc&#xA;domy Sama Altmana czy Geoffa Ralstona znam jedynie z opowieści. Pomijając&#xA;możliwość rozmów z mentorami to jednak nie to, co dzieje się w budynku YC jest&#xA;najważniejsze.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tales of Technical Co-founder</title>
+				<link>http://localhost:1313/2015/07/15/tales-of-technical-co-founder/</link>
+				<pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/2015/07/15/tales-of-technical-co-founder/</guid>
+				<description>&lt;p&gt;Many of us dream of building something big. Something we would deeply care&#xA;about. Something that would help us prove our craft to ourselves and others.&#xA;Something that would reach the 1000-stars mark on Github or at least end with a huge&#xA;IPO.&lt;/p&gt;&#xA;&lt;p&gt;Here’s my take.&lt;/p&gt;&#xA;&lt;p&gt;I’ve done my fair share of starting and running a company. I remember the&#xA;enthusiasm of the very early stages and the burnout after many sleepless nights&#xA;of tireless bootstrapping. I know how important it is to have a great team and&#xA;how hard it is to build one with very little money available. I learned so much&#xA;about luck and hard work. After all this, I appreciate my wife more than ever —&#xA;we went from a couple with full-time jobs to a family of four, all this while I&#xA;was entertaining the role of a co-founder and working to pay my bills.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

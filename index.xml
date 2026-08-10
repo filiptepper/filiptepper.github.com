@@ -1,44 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Filip Tepper</title>
-    <link>https://filip.tepper.pl/</link>
-    <description>Recent content on Filip Tepper</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://filip.tepper.pl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Y Combinator, W16</title>
-      <link>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</link>
-      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip.tepper.pl/2016/04/07/y-combinator-w16/</guid>
-      <description>Nieco ponad rok temu dołączyłem do Castle.io, z którym uczestniczyłem w zimowej edycji Y Combinator (YC) w 2016 roku. To, co widziałem, słyszałem i czego się nauczyłem znajdziecie poniżej.
-Czym jest YC? Akceleratorem startupów, programem, który, w dużym skrócie, przygotowuje uczestników do pozyskania finansowania w Silicon Valley (SV).
-Ważne zastrzeżenie — nie jestem współzałożycielem Castle.io. Jest to o tyle istotne, że nie miałem możliwości bezpośredniego uczestniczego w całym przedsięwzięciu. Ominęła mnie rozmowa kwalifikacyjna, nie chodziłem na cotygodniowe kolacje czy office hours.</description>
-    </item>
-    
-    <item>
-      <title>Tales of Technical Co-founder</title>
-      <link>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</link>
-      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip.tepper.pl/2015/07/15/tales-of-technical-co-founder/</guid>
-      <description>Many of us dream of building something big. Something we would deeply care about. Something that would help us prove our craft to ourselves and others. Something that would reach the 1000-stars mark on Github or at least end with a huge IPO.
-Here’s my take.
-I’ve done my fair share of starting and running a company. I remember the enthusiasm of the very early stages and the burnout after many sleepless nights of tireless bootstrapping.</description>
-    </item>
-    
-    <item>
-      <title>README</title>
-      <link>https://filip.tepper.pl/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip.tepper.pl/readme/</guid>
-      <description>Hi, I&amp;rsquo;m Filip, and this is my README.
-I am very excited to be working with you!
-You &amp;amp; I Every week we will have a 1:1. During this time I don&amp;rsquo;t expect project updates, this time is all about you. I will be giving you feedback, asking you for feedback, learning more about your goals, and most importantly - hearing how I can help you become the best you at $COMPANY.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Filip Tepper</title>
+		<link>https://filip.tepper.pl/</link>
+		<description>Recent content on Filip Tepper</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="https://filip.tepper.pl/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>README</title>
+				<link>https://filip.tepper.pl/readme/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://filip.tepper.pl/readme/</guid>
+				<description>&lt;p&gt;Hi, I&amp;rsquo;m Filip, and this is my &lt;code&gt;README&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am very excited to be working with you!&lt;/p&gt;&#xA;&lt;h3 id=&#34;you--i&#34;&gt;You &amp;amp; I&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;1:1s&lt;/strong&gt;: Every week we will have a 1:1. During this time I don&amp;rsquo;t expect project updates, this time is all about you. I will be giving you feedback, asking you for feedback, learning more about your goals, and most importantly - hearing how I can help you become the best you at &lt;em&gt;$COMPANY&lt;/em&gt;. If you can&amp;rsquo;t do your job properly I need to know. If you have thoughts about your career I would love to know too. I&amp;rsquo;m here to help.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
